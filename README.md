@@ -13,4 +13,4 @@ Implemented XGBOOST, Recursive Feature Elimination, Chi 2 Test, Correlation Anal
 
 Operated models including LightBGM, SVM, XGBoost, Decision Tree, Random Forest, KBest and RFECV models
 
-Result : Obtained R2 score of \textbf{0.9924} and MSE of 16,50,000 Euro on the evaluation dataset from Random Forest
+Result : Obtained R2 score of 0.9924 and MSE of 16,50,000 Euro on the evaluation dataset from Random Forest
